@@ -22,7 +22,7 @@ An online chess game built using Node.js, Express, EJS, Socket.IO, and MongoDB. 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/online-chess-game.git
+   git clone https://github.com/AayushiGo/online-chess-game.git
    cd online-chess-game
 Install dependencies
 
